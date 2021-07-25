@@ -1,5 +1,4 @@
-"Recommended Items Search | Try me in the Vendor tab!" or 
-(is:weapon is:wishlist) or (
+"Recommended Items Search | Try me in the Vendor tab!" or (
 is:armor -is:classitem (
 
   	(maxbasestatvalue:any) or
