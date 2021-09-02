@@ -7,7 +7,7 @@ or
 	)
 or
   (
-	(is:armor)
+	(is:armor -is:exotic)
 
 	-(basestat:any:>=26)
 	-(basestat:total:>=65)
