@@ -12,21 +12,21 @@ or
 	-(basestat:any:>=27)
 	-(basestat:total:>=66)
 
-	-(((basestat:mobility&resilience:>=21.5) or
-	(basestat:mobility&recovery:>=21.5) or
-	(basestat:mobility&discipline:>=21.5) or
-	(basestat:mobility&intellect:>=21.5) or
-	(basestat:mobility&strength:>=21.5) or
-	(basestat:resilience&recovery:>=21.5) or
-	(basestat:resilience&discipline:>=21.5) or
-	(basestat:resilience&intellect:>=21.5) or
-	(basestat:resilience&strength:>=21.5) or
-	(basestat:recovery&discipline:>=21.5) or
-	(basestat:recovery&intellect:>=21.5) or
-	(basestat:recovery&strength:>=21.5) or
-	(basestat:discipline&intellect:>=21.5) or
-	(basestat:discipline&strength:>=21.5) or
-	(basestat:intellect&strength:>=21.5)))
+	-(((basestat:mobility&resilience:>=22) or
+	(basestat:mobility&recovery:>=22) or
+	(basestat:mobility&discipline:>=22) or
+	(basestat:mobility&intellect:>=22) or
+	(basestat:mobility&strength:>=22) or
+	(basestat:resilience&recovery:>=22) or
+	(basestat:resilience&discipline:>=22) or
+	(basestat:resilience&intellect:>=22) or
+	(basestat:resilience&strength:>=22) or
+	(basestat:recovery&discipline:>=22) or
+	(basestat:recovery&intellect:>=22) or
+	(basestat:recovery&strength:>=22) or
+	(basestat:discipline&intellect:>=22) or
+	(basestat:discipline&strength:>=22) or
+	(basestat:intellect&strength:>=22)))
 
 	-(((basestat:mobility&resilience&recovery:>=17.66) or
 	(basestat:mobility&resilience&discipline:>=17.66) or
