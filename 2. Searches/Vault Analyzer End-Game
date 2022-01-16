@@ -68,6 +68,6 @@ or
 	-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10.66)
   )
 )
--is:tagged -is:inloadout -is:masterwork
+-is:tagged -is:inloadout -is:masterwork -perkname:"artifice armor"
 )
 )
